@@ -28,10 +28,10 @@ The mini-interpreter implements the following features:
   
 ## Project Structure
 
-  ast.ml: Defines a value type that can contain values of our base types (void, bool, int, str).
-  print.ml: Contains the function print_value: Ast.value -> unit that displays a value.
-  baselib.ml: Defines the Env module that contains the environment for storing the values defined by the program.
-  interp.ml: Contains the functions that evaluate expressions, statements, and blocks of statements.
+    ast.ml: Defines a value type that can contain values of our base types (void, bool, int, str).
+    print.ml: Contains the function print_value: Ast.value -> unit that displays a value.
+    baselib.ml: Defines the Env module that contains the environment for storing the values defined by the program.
+    interp.ml: Contains the functions that evaluate expressions, statements, and blocks of statements.
 
 
 ## Usage

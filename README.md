@@ -18,12 +18,11 @@ The project requires OCaml to function. Simply open a terminal and type the foll
 
 The mini-interpreter implements the following features:
 
-  mathematica
-  Management of variables and assignments.
-  Evaluation of expressions and statements.
-  Definition of native functions for addition.
-  Function calls.
-  Conditions and loops.
+     Management of variables and assignments.
+     Evaluation of expressions and statements.
+     Definition of native functions for addition.
+     Function calls.
+     Conditions and loops.
   
 ## Project Structure
 

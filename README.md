@@ -11,9 +11,8 @@ This project consists of designing and implementing a mini-interpreter for a sim
 ## Installation
 
 The project requires OCaml to function. Simply open a terminal and type the following commands:
-
-   ocamlbuild test.byte
-   ./test.byte
+      ocamlbuild test.byte
+      ./test.byte
 
 ## Implemented Features
 
